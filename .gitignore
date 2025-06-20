@@ -1,0 +1,19 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos de IDEs y editores
+.vscode/
+.idea/
+
+# Archivos temporales de Office
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Archivos y carpetas temporales
+*.tmp
+*~
+tmp/
+temp/
