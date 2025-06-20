@@ -1,0 +1,5 @@
+Objective: To evaluate in normal subjects the time variations of various topographic indices after the administration of different tear substitutes. Methods: In 22 eyes of 15 normal patients we obtained quantitative topographic indices before and after the administration of various types of artificial tears in the form of eye drops, gel or ointment.
+
+ Results: The mean sphere is barely modified after the administration of an aqueous eye drop or gel, while after the administration of an ointment, it varies at minute 3 by 8±4.9 D and at 10 minutes by 0.95±2.8 D, however we did not observe statistically significant differences in the mean dioptric power with any of the preparations used. The index of regularity of the corneal surface (SRI) increases significantly after the administration of the ointment.
+ 
+  Conclusions: Aqueous tear substitutes do not modify the studied topographic parameters, while gel substitutes do modify them, although these normalize at 10 minutes. Ointment substitutes, however, modify the topographic parameters for more than 10 minutes.
